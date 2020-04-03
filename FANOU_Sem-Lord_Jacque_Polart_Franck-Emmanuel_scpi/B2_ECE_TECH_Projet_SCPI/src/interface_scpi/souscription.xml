@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<souscription>
+
+	<client>
+
+		<page1>
+			<nom></nom
+			<prenom></prenom>
+                        <email></email>
+                        <matrimoniale></matrimoniale>
+                        <email></email>
+                        <telephone></telephone>
+		</page1>
+
+		<page2>
+			<nom></nom>
+			<prenom></prenom>
+			<situation_matrimoniale></situation_matrimoniale>
+			<telephone></telephone>
+			<enfant></enfant>
+			<email></email>
+		</page2>
+
+		<page3>
+			<adresse></adresse>
+			<proprietaire></proprietaire>
+			<acivité></acivité>
+		</page3>
+
+		<page4>
+			<type></type>
+			<nombre_part></nombre_part>
+			<objectif></objectif>
+			<durer></durer>
+		</page4>
+			
+
+	</client>
+
+</souscription>

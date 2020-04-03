@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+--><root>
+    
+
+
+
+<page0><nom>Fanou</nom><prenom>Sem-Lord</prenom><email>semfanou@gmail.com</email><enfant>0</enfant><matrimoniale>Célibataire</matrimoniale><telephone>0624237488</telephone></page0><page1><type_de_personne>physique</type_de_personne><adresse>29 Boulevard francois Mitterrand</adresse><ville>Evry</ville><proprietaire>Non</proprietaire><activite>Etudiant</activite><duree>Entre 4 - 8 ans</duree><pays>France</pays><code_postal>91000</code_postal><investissement>Cash</investissement><objectif>Prpearer ma retraite</objectif></page1><page2><nationalite>Beninoise</nationalite><date_de_naissance>07/03/2000</date_de_naissance><montant>800€</montant><revenue_annuel>Moins de 30000€</revenue_annuel><pays_de_naissance>Benin</pays_de_naissance><ville_de_naisssance>Cotonou</ville_de_naisssance><situation_patrimonial>Moins de 50000€</situation_patrimonial><autre_charge>non</autre_charge><personnage_politique>non</personnage_politique><us_person>non</us_person></page2><page3><frequence_transaction>Mensuelle</frequence_transaction><nombre_transaction>12</nombre_transaction><investissement_sur_12_ans>Moins de 15000€</investissement_sur_12_ans><type_paiement>Par le souscripteur</type_paiement><provenance_des_fond>France</provenance_des_fond><risque_capital>oui</risque_capital><risque_baisse_revenu>oui</risque_baisse_revenu><limite_de_revenu>oui</limite_de_revenu><variation_du_revenu>oui</variation_du_revenu></page3><page4><montant_envoyer>1000€</montant_envoyer><nom_banque>Bnp paribas</nom_banque><code_postal_banque>91100</code_postal_banque></page4></root>

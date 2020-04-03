@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+--><root>
+    
+    
+<users>
+    <identifiant>slord</identifiant>
+    <password>sem</password>
+    <email>semfanou@gmail.com</email>
+</users>
+<users>
+    <identifiant>hermo</identifiant>
+    <password>hermo07</password>
+    <email>toviho@gmail.com</email>
+</users>
+<users><identifiant>hyriam</identifiant><password>lord</password><email>hyriamlord@gmail.com</email></users><users><identifiant>projet_scpi</identifiant><password>scpi</password><email>semfanou@gmail.com</email></users><users><identifiant>projet</identifiant><password>scpiB2</password><email>semfanou@gmail.com</email></users><users><identifiant>Taha</identifiant><password>Ridenne</password><email>taha.ridenne@ecetech.fr</email></users></root>
