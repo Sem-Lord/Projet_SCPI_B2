@@ -1,5 +1,5 @@
 Telechargie le code source complet du logiciel sur l'url ci-dessous
-https://github.com/Sem-Lord/projet_scpi
+https://github.com/Sem-Lord/Projet_SCPI_B2
 
 Sous eclipse
 File->open folder->B2_ECE_TECH_Projet_SCPI
